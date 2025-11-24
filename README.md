@@ -36,4 +36,4 @@ It provides API endpoints to fetch **current weather for user's location** or **
 
 Frontend code is implemented in **React.js** and hosted in a separate repository:
 
-[Weather App Frontend Repository](https://github.com/yourusername/weather-frontend)
+[Weather App Frontend Repository](https://github.com/savindi2003/live-weather-frontend.git)
